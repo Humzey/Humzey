@@ -7,8 +7,9 @@
 
 ## 🚀 About Me
 
-I am a passionate and dedicated learner focused on building a strong foundation in **Data Science and Machine Learning**.
-I enjoy working with data, solving real-world problems, and continuously improving my skills through hands-on projects.
+I am a highly motivated and curious learner with a strong interest in **Data Science and Machine Learning**.
+I enjoy transforming raw data into meaningful insights and building practical solutions through real-world projects.
+Currently focused on strengthening my skills and preparing for professional opportunities in the data field.
 
 ---
 
@@ -21,11 +22,11 @@ I enjoy working with data, solving real-world problems, and continuously improvi
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
-* 🏠 House Price Prediction
-* 📊 Sales Data Analysis
-* 🎓 Student Performance Prediction
+* 🏠 **House Price Prediction** – Built a model to predict property prices using ML algorithms
+* 📊 **Sales Data Analysis** – Analyzed sales trends and generated actionable insights
+* 🎓 **Student Performance Prediction** – Predicted student outcomes based on multiple factors
 
 ---
 
@@ -39,17 +40,17 @@ I enjoy working with data, solving real-world problems, and continuously improvi
 
 ## 🌐 Connect With Me
 
-* 📧 Email: humzyy3@gmail.com
-* 💼 LinkedIn: https://www.linkedin.com/in/hamza-saeed-81b237368?utm_source=share_via&utm_content=profile&utm_medium=member_android
+* 📧 Email: [humzyy3@gmail.com](mailto:humzyy3@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/hamza-saeed-81b237368
 
 ---
 
-## ⚡ Goals
+## ⚡ Career Goals
 
-* Build impactful data-driven projects
+* Build impactful, real-world data projects
 * Become a professional Data Scientist
-* Contribute to real-world solutions using AI
+* Contribute to AI-driven solutions
 
 ---
 
-⭐ *“Consistent learning and building — one step closer every day.”*
+⭐ *“Consistency, curiosity, and continuous improvement.”*
